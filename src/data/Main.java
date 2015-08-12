@@ -8,7 +8,7 @@ import java.awt.RenderingHints;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
-import javax.imageio.*;;
+import javax.imageio.*;
 
 import com.sun.javafx.geom.Shape;
 
@@ -20,20 +20,41 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String text = "";
-		double num = 3;
+		double num = 2.8;
+		double stop = 4.4;
 		double delta = 0.01;
-		for(int i = 0; num <= 4.2; i++) {
+		for(int i = 0; num <= stop; i++) {
 			
 			text = Double.toString(num);
-			System.out.println(text);
-			writeImageFromText(text, text);
+			if(Math.ceil(num * 100) % 10 == 0 && num != 4.19) {
+				text += "0";
+			}
+			String name = Integer.toString((int) Math.ceil(num * 100));
+			
+			writeImageFromText(text, ".\\drawable\\black" + name, Color.BLACK);
+			writeImageFromText(text, ".\\drawable\\white" + name, Color.WHITE);
 			num += delta;
 			num = Math.ceil(num * 100) / 100;
 		}
 		
+		delta = 0.1;
+		num = stop + delta;
+		stop = 10;
+		for(int i = 0; num <= stop; i++) {
+			
+			text = Double.toString(num);
+			
+			String name = Integer.toString((int) Math.ceil(num * 100));
+			writeImageFromText(text, ".\\drawable\\black" + name, Color.BLACK);
+			writeImageFromText(text, ".\\drawable\\white" + name, Color.WHITE);
+			num += delta;
+			num = Math.ceil(num * 100) / 100;
+		}
+		System.out.println("end");
+		
 	}
 	
-	private static void writeImageFromText(String text, String fileName) {
+	private static void writeImageFromText(String text, String fileName, Color textColor) {
         /*
         Because font metrics is based on a graphics context, we need to create
         a small, temporary image so we can ascertain the width and height
@@ -41,11 +62,11 @@ public class Main {
       */
      BufferedImage img = new BufferedImage(1, 1, BufferedImage.TYPE_INT_ARGB);
      Graphics2D g2d = img.createGraphics();
-     Font font = new Font(Font.SANS_SERIF, Font.PLAIN, 50);
+     Font font = new Font("Agency FB", Font.BOLD, 50); //Rockwell Condensed Agency FB Arial Narrow
      g2d.setFont(font);
      FontMetrics fm = g2d.getFontMetrics();
      int width = fm.stringWidth(text);
-     int height = fm.getHeight();
+     int height = 38;
      g2d.dispose();
 
      img = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
@@ -60,9 +81,8 @@ public class Main {
      g2d.setRenderingHint(RenderingHints.KEY_STROKE_CONTROL, RenderingHints.VALUE_STROKE_PURE);
      g2d.setFont(font);
      fm = g2d.getFontMetrics();
-     g2d.setColor(Color.WHITE);
-     g2d.setBackground(Color.BLACK);
-     g2d.drawString(text, 0, fm.getAscent());
+     g2d.setColor(textColor);
+     g2d.drawString(text, 0, height);
      
      g2d.dispose();
      try {
