@@ -5,442 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cd107ef-c519-4bd9-953c-26c609e334ae" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/data/Main.class" afterPath="$PROJECT_DIR$/bin/data/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black1000.png" afterPath="$PROJECT_DIR$/drawable/black1000.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black280.png" afterPath="$PROJECT_DIR$/drawable/black280.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black281.png" afterPath="$PROJECT_DIR$/drawable/black281.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black282.png" afterPath="$PROJECT_DIR$/drawable/black282.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black283.png" afterPath="$PROJECT_DIR$/drawable/black283.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black284.png" afterPath="$PROJECT_DIR$/drawable/black284.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black285.png" afterPath="$PROJECT_DIR$/drawable/black285.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black286.png" afterPath="$PROJECT_DIR$/drawable/black286.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black287.png" afterPath="$PROJECT_DIR$/drawable/black287.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black288.png" afterPath="$PROJECT_DIR$/drawable/black288.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black289.png" afterPath="$PROJECT_DIR$/drawable/black289.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black290.png" afterPath="$PROJECT_DIR$/drawable/black290.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black291.png" afterPath="$PROJECT_DIR$/drawable/black291.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black292.png" afterPath="$PROJECT_DIR$/drawable/black292.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black293.png" afterPath="$PROJECT_DIR$/drawable/black293.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black294.png" afterPath="$PROJECT_DIR$/drawable/black294.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black295.png" afterPath="$PROJECT_DIR$/drawable/black295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black296.png" afterPath="$PROJECT_DIR$/drawable/black296.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black297.png" afterPath="$PROJECT_DIR$/drawable/black297.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black298.png" afterPath="$PROJECT_DIR$/drawable/black298.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black299.png" afterPath="$PROJECT_DIR$/drawable/black299.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black300.png" afterPath="$PROJECT_DIR$/drawable/black300.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black301.png" afterPath="$PROJECT_DIR$/drawable/black301.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black302.png" afterPath="$PROJECT_DIR$/drawable/black302.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black303.png" afterPath="$PROJECT_DIR$/drawable/black303.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black304.png" afterPath="$PROJECT_DIR$/drawable/black304.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black305.png" afterPath="$PROJECT_DIR$/drawable/black305.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black306.png" afterPath="$PROJECT_DIR$/drawable/black306.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black307.png" afterPath="$PROJECT_DIR$/drawable/black307.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black308.png" afterPath="$PROJECT_DIR$/drawable/black308.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black309.png" afterPath="$PROJECT_DIR$/drawable/black309.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black310.png" afterPath="$PROJECT_DIR$/drawable/black310.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black311.png" afterPath="$PROJECT_DIR$/drawable/black311.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black312.png" afterPath="$PROJECT_DIR$/drawable/black312.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black313.png" afterPath="$PROJECT_DIR$/drawable/black313.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black314.png" afterPath="$PROJECT_DIR$/drawable/black314.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black315.png" afterPath="$PROJECT_DIR$/drawable/black315.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black316.png" afterPath="$PROJECT_DIR$/drawable/black316.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black317.png" afterPath="$PROJECT_DIR$/drawable/black317.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black318.png" afterPath="$PROJECT_DIR$/drawable/black318.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black319.png" afterPath="$PROJECT_DIR$/drawable/black319.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black320.png" afterPath="$PROJECT_DIR$/drawable/black320.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black321.png" afterPath="$PROJECT_DIR$/drawable/black321.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black322.png" afterPath="$PROJECT_DIR$/drawable/black322.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black323.png" afterPath="$PROJECT_DIR$/drawable/black323.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black324.png" afterPath="$PROJECT_DIR$/drawable/black324.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black325.png" afterPath="$PROJECT_DIR$/drawable/black325.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black326.png" afterPath="$PROJECT_DIR$/drawable/black326.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black327.png" afterPath="$PROJECT_DIR$/drawable/black327.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black328.png" afterPath="$PROJECT_DIR$/drawable/black328.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black329.png" afterPath="$PROJECT_DIR$/drawable/black329.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black330.png" afterPath="$PROJECT_DIR$/drawable/black330.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black331.png" afterPath="$PROJECT_DIR$/drawable/black331.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black332.png" afterPath="$PROJECT_DIR$/drawable/black332.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black333.png" afterPath="$PROJECT_DIR$/drawable/black333.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black334.png" afterPath="$PROJECT_DIR$/drawable/black334.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black335.png" afterPath="$PROJECT_DIR$/drawable/black335.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black336.png" afterPath="$PROJECT_DIR$/drawable/black336.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black337.png" afterPath="$PROJECT_DIR$/drawable/black337.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black338.png" afterPath="$PROJECT_DIR$/drawable/black338.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black339.png" afterPath="$PROJECT_DIR$/drawable/black339.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black340.png" afterPath="$PROJECT_DIR$/drawable/black340.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black341.png" afterPath="$PROJECT_DIR$/drawable/black341.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black342.png" afterPath="$PROJECT_DIR$/drawable/black342.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black343.png" afterPath="$PROJECT_DIR$/drawable/black343.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black344.png" afterPath="$PROJECT_DIR$/drawable/black344.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black345.png" afterPath="$PROJECT_DIR$/drawable/black345.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black346.png" afterPath="$PROJECT_DIR$/drawable/black346.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black347.png" afterPath="$PROJECT_DIR$/drawable/black347.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black348.png" afterPath="$PROJECT_DIR$/drawable/black348.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black349.png" afterPath="$PROJECT_DIR$/drawable/black349.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black350.png" afterPath="$PROJECT_DIR$/drawable/black350.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black351.png" afterPath="$PROJECT_DIR$/drawable/black351.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black352.png" afterPath="$PROJECT_DIR$/drawable/black352.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black353.png" afterPath="$PROJECT_DIR$/drawable/black353.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black354.png" afterPath="$PROJECT_DIR$/drawable/black354.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black355.png" afterPath="$PROJECT_DIR$/drawable/black355.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black356.png" afterPath="$PROJECT_DIR$/drawable/black356.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black357.png" afterPath="$PROJECT_DIR$/drawable/black357.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black358.png" afterPath="$PROJECT_DIR$/drawable/black358.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black359.png" afterPath="$PROJECT_DIR$/drawable/black359.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black360.png" afterPath="$PROJECT_DIR$/drawable/black360.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black361.png" afterPath="$PROJECT_DIR$/drawable/black361.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black362.png" afterPath="$PROJECT_DIR$/drawable/black362.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black363.png" afterPath="$PROJECT_DIR$/drawable/black363.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black364.png" afterPath="$PROJECT_DIR$/drawable/black364.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black365.png" afterPath="$PROJECT_DIR$/drawable/black365.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black366.png" afterPath="$PROJECT_DIR$/drawable/black366.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black367.png" afterPath="$PROJECT_DIR$/drawable/black367.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black368.png" afterPath="$PROJECT_DIR$/drawable/black368.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black369.png" afterPath="$PROJECT_DIR$/drawable/black369.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black370.png" afterPath="$PROJECT_DIR$/drawable/black370.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black371.png" afterPath="$PROJECT_DIR$/drawable/black371.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black372.png" afterPath="$PROJECT_DIR$/drawable/black372.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black373.png" afterPath="$PROJECT_DIR$/drawable/black373.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black374.png" afterPath="$PROJECT_DIR$/drawable/black374.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black375.png" afterPath="$PROJECT_DIR$/drawable/black375.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black376.png" afterPath="$PROJECT_DIR$/drawable/black376.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black377.png" afterPath="$PROJECT_DIR$/drawable/black377.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black378.png" afterPath="$PROJECT_DIR$/drawable/black378.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black379.png" afterPath="$PROJECT_DIR$/drawable/black379.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black380.png" afterPath="$PROJECT_DIR$/drawable/black380.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black381.png" afterPath="$PROJECT_DIR$/drawable/black381.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black382.png" afterPath="$PROJECT_DIR$/drawable/black382.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black383.png" afterPath="$PROJECT_DIR$/drawable/black383.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black384.png" afterPath="$PROJECT_DIR$/drawable/black384.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black385.png" afterPath="$PROJECT_DIR$/drawable/black385.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black386.png" afterPath="$PROJECT_DIR$/drawable/black386.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black387.png" afterPath="$PROJECT_DIR$/drawable/black387.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black388.png" afterPath="$PROJECT_DIR$/drawable/black388.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black389.png" afterPath="$PROJECT_DIR$/drawable/black389.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black390.png" afterPath="$PROJECT_DIR$/drawable/black390.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black391.png" afterPath="$PROJECT_DIR$/drawable/black391.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black392.png" afterPath="$PROJECT_DIR$/drawable/black392.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black393.png" afterPath="$PROJECT_DIR$/drawable/black393.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black394.png" afterPath="$PROJECT_DIR$/drawable/black394.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black395.png" afterPath="$PROJECT_DIR$/drawable/black395.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black396.png" afterPath="$PROJECT_DIR$/drawable/black396.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black397.png" afterPath="$PROJECT_DIR$/drawable/black397.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black398.png" afterPath="$PROJECT_DIR$/drawable/black398.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black399.png" afterPath="$PROJECT_DIR$/drawable/black399.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black400.png" afterPath="$PROJECT_DIR$/drawable/black400.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black401.png" afterPath="$PROJECT_DIR$/drawable/black401.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black402.png" afterPath="$PROJECT_DIR$/drawable/black402.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black403.png" afterPath="$PROJECT_DIR$/drawable/black403.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black404.png" afterPath="$PROJECT_DIR$/drawable/black404.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black405.png" afterPath="$PROJECT_DIR$/drawable/black405.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black406.png" afterPath="$PROJECT_DIR$/drawable/black406.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black407.png" afterPath="$PROJECT_DIR$/drawable/black407.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black408.png" afterPath="$PROJECT_DIR$/drawable/black408.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black409.png" afterPath="$PROJECT_DIR$/drawable/black409.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black410.png" afterPath="$PROJECT_DIR$/drawable/black410.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black411.png" afterPath="$PROJECT_DIR$/drawable/black411.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black412.png" afterPath="$PROJECT_DIR$/drawable/black412.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black413.png" afterPath="$PROJECT_DIR$/drawable/black413.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black414.png" afterPath="$PROJECT_DIR$/drawable/black414.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black415.png" afterPath="$PROJECT_DIR$/drawable/black415.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black416.png" afterPath="$PROJECT_DIR$/drawable/black416.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black417.png" afterPath="$PROJECT_DIR$/drawable/black417.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black418.png" afterPath="$PROJECT_DIR$/drawable/black418.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black419.png" afterPath="$PROJECT_DIR$/drawable/black419.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black420.png" afterPath="$PROJECT_DIR$/drawable/black420.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black421.png" afterPath="$PROJECT_DIR$/drawable/black421.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black422.png" afterPath="$PROJECT_DIR$/drawable/black422.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black423.png" afterPath="$PROJECT_DIR$/drawable/black423.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black424.png" afterPath="$PROJECT_DIR$/drawable/black424.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black425.png" afterPath="$PROJECT_DIR$/drawable/black425.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black426.png" afterPath="$PROJECT_DIR$/drawable/black426.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black427.png" afterPath="$PROJECT_DIR$/drawable/black427.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black428.png" afterPath="$PROJECT_DIR$/drawable/black428.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black429.png" afterPath="$PROJECT_DIR$/drawable/black429.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black430.png" afterPath="$PROJECT_DIR$/drawable/black430.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black431.png" afterPath="$PROJECT_DIR$/drawable/black431.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black432.png" afterPath="$PROJECT_DIR$/drawable/black432.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black433.png" afterPath="$PROJECT_DIR$/drawable/black433.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black434.png" afterPath="$PROJECT_DIR$/drawable/black434.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black435.png" afterPath="$PROJECT_DIR$/drawable/black435.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black436.png" afterPath="$PROJECT_DIR$/drawable/black436.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black437.png" afterPath="$PROJECT_DIR$/drawable/black437.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black438.png" afterPath="$PROJECT_DIR$/drawable/black438.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black439.png" afterPath="$PROJECT_DIR$/drawable/black439.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black440.png" afterPath="$PROJECT_DIR$/drawable/black440.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black450.png" afterPath="$PROJECT_DIR$/drawable/black450.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black460.png" afterPath="$PROJECT_DIR$/drawable/black460.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black470.png" afterPath="$PROJECT_DIR$/drawable/black470.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black480.png" afterPath="$PROJECT_DIR$/drawable/black480.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black490.png" afterPath="$PROJECT_DIR$/drawable/black490.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black500.png" afterPath="$PROJECT_DIR$/drawable/black500.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black510.png" afterPath="$PROJECT_DIR$/drawable/black510.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black520.png" afterPath="$PROJECT_DIR$/drawable/black520.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black530.png" afterPath="$PROJECT_DIR$/drawable/black530.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black540.png" afterPath="$PROJECT_DIR$/drawable/black540.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black550.png" afterPath="$PROJECT_DIR$/drawable/black550.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black560.png" afterPath="$PROJECT_DIR$/drawable/black560.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black570.png" afterPath="$PROJECT_DIR$/drawable/black570.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black580.png" afterPath="$PROJECT_DIR$/drawable/black580.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black590.png" afterPath="$PROJECT_DIR$/drawable/black590.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black600.png" afterPath="$PROJECT_DIR$/drawable/black600.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black610.png" afterPath="$PROJECT_DIR$/drawable/black610.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black620.png" afterPath="$PROJECT_DIR$/drawable/black620.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black630.png" afterPath="$PROJECT_DIR$/drawable/black630.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black640.png" afterPath="$PROJECT_DIR$/drawable/black640.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black650.png" afterPath="$PROJECT_DIR$/drawable/black650.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black660.png" afterPath="$PROJECT_DIR$/drawable/black660.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black670.png" afterPath="$PROJECT_DIR$/drawable/black670.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black680.png" afterPath="$PROJECT_DIR$/drawable/black680.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black690.png" afterPath="$PROJECT_DIR$/drawable/black690.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black700.png" afterPath="$PROJECT_DIR$/drawable/black700.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black710.png" afterPath="$PROJECT_DIR$/drawable/black710.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black720.png" afterPath="$PROJECT_DIR$/drawable/black720.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black730.png" afterPath="$PROJECT_DIR$/drawable/black730.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black740.png" afterPath="$PROJECT_DIR$/drawable/black740.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black750.png" afterPath="$PROJECT_DIR$/drawable/black750.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black760.png" afterPath="$PROJECT_DIR$/drawable/black760.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black770.png" afterPath="$PROJECT_DIR$/drawable/black770.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black780.png" afterPath="$PROJECT_DIR$/drawable/black780.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black790.png" afterPath="$PROJECT_DIR$/drawable/black790.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black800.png" afterPath="$PROJECT_DIR$/drawable/black800.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black810.png" afterPath="$PROJECT_DIR$/drawable/black810.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black820.png" afterPath="$PROJECT_DIR$/drawable/black820.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black830.png" afterPath="$PROJECT_DIR$/drawable/black830.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black840.png" afterPath="$PROJECT_DIR$/drawable/black840.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black850.png" afterPath="$PROJECT_DIR$/drawable/black850.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black860.png" afterPath="$PROJECT_DIR$/drawable/black860.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black870.png" afterPath="$PROJECT_DIR$/drawable/black870.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black880.png" afterPath="$PROJECT_DIR$/drawable/black880.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black890.png" afterPath="$PROJECT_DIR$/drawable/black890.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black900.png" afterPath="$PROJECT_DIR$/drawable/black900.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black910.png" afterPath="$PROJECT_DIR$/drawable/black910.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black920.png" afterPath="$PROJECT_DIR$/drawable/black920.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black930.png" afterPath="$PROJECT_DIR$/drawable/black930.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black940.png" afterPath="$PROJECT_DIR$/drawable/black940.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black950.png" afterPath="$PROJECT_DIR$/drawable/black950.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black960.png" afterPath="$PROJECT_DIR$/drawable/black960.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black970.png" afterPath="$PROJECT_DIR$/drawable/black970.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black980.png" afterPath="$PROJECT_DIR$/drawable/black980.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/black990.png" afterPath="$PROJECT_DIR$/drawable/black990.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white1000.png" afterPath="$PROJECT_DIR$/drawable/white1000.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white280.png" afterPath="$PROJECT_DIR$/drawable/white280.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white281.png" afterPath="$PROJECT_DIR$/drawable/white281.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white282.png" afterPath="$PROJECT_DIR$/drawable/white282.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white283.png" afterPath="$PROJECT_DIR$/drawable/white283.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white284.png" afterPath="$PROJECT_DIR$/drawable/white284.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white285.png" afterPath="$PROJECT_DIR$/drawable/white285.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white286.png" afterPath="$PROJECT_DIR$/drawable/white286.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white287.png" afterPath="$PROJECT_DIR$/drawable/white287.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white288.png" afterPath="$PROJECT_DIR$/drawable/white288.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white289.png" afterPath="$PROJECT_DIR$/drawable/white289.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white290.png" afterPath="$PROJECT_DIR$/drawable/white290.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white291.png" afterPath="$PROJECT_DIR$/drawable/white291.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white292.png" afterPath="$PROJECT_DIR$/drawable/white292.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white293.png" afterPath="$PROJECT_DIR$/drawable/white293.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white294.png" afterPath="$PROJECT_DIR$/drawable/white294.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white295.png" afterPath="$PROJECT_DIR$/drawable/white295.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white296.png" afterPath="$PROJECT_DIR$/drawable/white296.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white297.png" afterPath="$PROJECT_DIR$/drawable/white297.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white298.png" afterPath="$PROJECT_DIR$/drawable/white298.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white299.png" afterPath="$PROJECT_DIR$/drawable/white299.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white300.png" afterPath="$PROJECT_DIR$/drawable/white300.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white301.png" afterPath="$PROJECT_DIR$/drawable/white301.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white302.png" afterPath="$PROJECT_DIR$/drawable/white302.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white303.png" afterPath="$PROJECT_DIR$/drawable/white303.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white304.png" afterPath="$PROJECT_DIR$/drawable/white304.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white305.png" afterPath="$PROJECT_DIR$/drawable/white305.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white306.png" afterPath="$PROJECT_DIR$/drawable/white306.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white307.png" afterPath="$PROJECT_DIR$/drawable/white307.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white308.png" afterPath="$PROJECT_DIR$/drawable/white308.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white309.png" afterPath="$PROJECT_DIR$/drawable/white309.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white310.png" afterPath="$PROJECT_DIR$/drawable/white310.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white311.png" afterPath="$PROJECT_DIR$/drawable/white311.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white312.png" afterPath="$PROJECT_DIR$/drawable/white312.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white313.png" afterPath="$PROJECT_DIR$/drawable/white313.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white314.png" afterPath="$PROJECT_DIR$/drawable/white314.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white315.png" afterPath="$PROJECT_DIR$/drawable/white315.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white316.png" afterPath="$PROJECT_DIR$/drawable/white316.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white317.png" afterPath="$PROJECT_DIR$/drawable/white317.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white318.png" afterPath="$PROJECT_DIR$/drawable/white318.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white319.png" afterPath="$PROJECT_DIR$/drawable/white319.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white320.png" afterPath="$PROJECT_DIR$/drawable/white320.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white321.png" afterPath="$PROJECT_DIR$/drawable/white321.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white322.png" afterPath="$PROJECT_DIR$/drawable/white322.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white323.png" afterPath="$PROJECT_DIR$/drawable/white323.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white324.png" afterPath="$PROJECT_DIR$/drawable/white324.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white325.png" afterPath="$PROJECT_DIR$/drawable/white325.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white326.png" afterPath="$PROJECT_DIR$/drawable/white326.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white327.png" afterPath="$PROJECT_DIR$/drawable/white327.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white328.png" afterPath="$PROJECT_DIR$/drawable/white328.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white329.png" afterPath="$PROJECT_DIR$/drawable/white329.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white330.png" afterPath="$PROJECT_DIR$/drawable/white330.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white331.png" afterPath="$PROJECT_DIR$/drawable/white331.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white332.png" afterPath="$PROJECT_DIR$/drawable/white332.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white333.png" afterPath="$PROJECT_DIR$/drawable/white333.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white334.png" afterPath="$PROJECT_DIR$/drawable/white334.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white335.png" afterPath="$PROJECT_DIR$/drawable/white335.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white336.png" afterPath="$PROJECT_DIR$/drawable/white336.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white337.png" afterPath="$PROJECT_DIR$/drawable/white337.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white338.png" afterPath="$PROJECT_DIR$/drawable/white338.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white339.png" afterPath="$PROJECT_DIR$/drawable/white339.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white340.png" afterPath="$PROJECT_DIR$/drawable/white340.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white341.png" afterPath="$PROJECT_DIR$/drawable/white341.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white342.png" afterPath="$PROJECT_DIR$/drawable/white342.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white343.png" afterPath="$PROJECT_DIR$/drawable/white343.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white344.png" afterPath="$PROJECT_DIR$/drawable/white344.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white345.png" afterPath="$PROJECT_DIR$/drawable/white345.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white346.png" afterPath="$PROJECT_DIR$/drawable/white346.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white347.png" afterPath="$PROJECT_DIR$/drawable/white347.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white348.png" afterPath="$PROJECT_DIR$/drawable/white348.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white349.png" afterPath="$PROJECT_DIR$/drawable/white349.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white350.png" afterPath="$PROJECT_DIR$/drawable/white350.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white351.png" afterPath="$PROJECT_DIR$/drawable/white351.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white352.png" afterPath="$PROJECT_DIR$/drawable/white352.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white353.png" afterPath="$PROJECT_DIR$/drawable/white353.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white354.png" afterPath="$PROJECT_DIR$/drawable/white354.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white355.png" afterPath="$PROJECT_DIR$/drawable/white355.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white356.png" afterPath="$PROJECT_DIR$/drawable/white356.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white357.png" afterPath="$PROJECT_DIR$/drawable/white357.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white358.png" afterPath="$PROJECT_DIR$/drawable/white358.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white359.png" afterPath="$PROJECT_DIR$/drawable/white359.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white360.png" afterPath="$PROJECT_DIR$/drawable/white360.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white361.png" afterPath="$PROJECT_DIR$/drawable/white361.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white362.png" afterPath="$PROJECT_DIR$/drawable/white362.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white363.png" afterPath="$PROJECT_DIR$/drawable/white363.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white364.png" afterPath="$PROJECT_DIR$/drawable/white364.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white365.png" afterPath="$PROJECT_DIR$/drawable/white365.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white366.png" afterPath="$PROJECT_DIR$/drawable/white366.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white367.png" afterPath="$PROJECT_DIR$/drawable/white367.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white368.png" afterPath="$PROJECT_DIR$/drawable/white368.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white369.png" afterPath="$PROJECT_DIR$/drawable/white369.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white370.png" afterPath="$PROJECT_DIR$/drawable/white370.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white371.png" afterPath="$PROJECT_DIR$/drawable/white371.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white372.png" afterPath="$PROJECT_DIR$/drawable/white372.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white373.png" afterPath="$PROJECT_DIR$/drawable/white373.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white374.png" afterPath="$PROJECT_DIR$/drawable/white374.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white375.png" afterPath="$PROJECT_DIR$/drawable/white375.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white376.png" afterPath="$PROJECT_DIR$/drawable/white376.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white377.png" afterPath="$PROJECT_DIR$/drawable/white377.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white378.png" afterPath="$PROJECT_DIR$/drawable/white378.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white379.png" afterPath="$PROJECT_DIR$/drawable/white379.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white380.png" afterPath="$PROJECT_DIR$/drawable/white380.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white381.png" afterPath="$PROJECT_DIR$/drawable/white381.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white382.png" afterPath="$PROJECT_DIR$/drawable/white382.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white383.png" afterPath="$PROJECT_DIR$/drawable/white383.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white384.png" afterPath="$PROJECT_DIR$/drawable/white384.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white385.png" afterPath="$PROJECT_DIR$/drawable/white385.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white386.png" afterPath="$PROJECT_DIR$/drawable/white386.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white387.png" afterPath="$PROJECT_DIR$/drawable/white387.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white388.png" afterPath="$PROJECT_DIR$/drawable/white388.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white389.png" afterPath="$PROJECT_DIR$/drawable/white389.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white390.png" afterPath="$PROJECT_DIR$/drawable/white390.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white391.png" afterPath="$PROJECT_DIR$/drawable/white391.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white392.png" afterPath="$PROJECT_DIR$/drawable/white392.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white393.png" afterPath="$PROJECT_DIR$/drawable/white393.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white394.png" afterPath="$PROJECT_DIR$/drawable/white394.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white395.png" afterPath="$PROJECT_DIR$/drawable/white395.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white396.png" afterPath="$PROJECT_DIR$/drawable/white396.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white397.png" afterPath="$PROJECT_DIR$/drawable/white397.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white398.png" afterPath="$PROJECT_DIR$/drawable/white398.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white399.png" afterPath="$PROJECT_DIR$/drawable/white399.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white400.png" afterPath="$PROJECT_DIR$/drawable/white400.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white401.png" afterPath="$PROJECT_DIR$/drawable/white401.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white402.png" afterPath="$PROJECT_DIR$/drawable/white402.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white403.png" afterPath="$PROJECT_DIR$/drawable/white403.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white404.png" afterPath="$PROJECT_DIR$/drawable/white404.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white405.png" afterPath="$PROJECT_DIR$/drawable/white405.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white406.png" afterPath="$PROJECT_DIR$/drawable/white406.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white407.png" afterPath="$PROJECT_DIR$/drawable/white407.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white408.png" afterPath="$PROJECT_DIR$/drawable/white408.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white409.png" afterPath="$PROJECT_DIR$/drawable/white409.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white410.png" afterPath="$PROJECT_DIR$/drawable/white410.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white411.png" afterPath="$PROJECT_DIR$/drawable/white411.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white412.png" afterPath="$PROJECT_DIR$/drawable/white412.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white413.png" afterPath="$PROJECT_DIR$/drawable/white413.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white414.png" afterPath="$PROJECT_DIR$/drawable/white414.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white415.png" afterPath="$PROJECT_DIR$/drawable/white415.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white416.png" afterPath="$PROJECT_DIR$/drawable/white416.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white417.png" afterPath="$PROJECT_DIR$/drawable/white417.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white418.png" afterPath="$PROJECT_DIR$/drawable/white418.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white419.png" afterPath="$PROJECT_DIR$/drawable/white419.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white420.png" afterPath="$PROJECT_DIR$/drawable/white420.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white421.png" afterPath="$PROJECT_DIR$/drawable/white421.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white422.png" afterPath="$PROJECT_DIR$/drawable/white422.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white423.png" afterPath="$PROJECT_DIR$/drawable/white423.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white424.png" afterPath="$PROJECT_DIR$/drawable/white424.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white425.png" afterPath="$PROJECT_DIR$/drawable/white425.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white426.png" afterPath="$PROJECT_DIR$/drawable/white426.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white427.png" afterPath="$PROJECT_DIR$/drawable/white427.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white428.png" afterPath="$PROJECT_DIR$/drawable/white428.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white429.png" afterPath="$PROJECT_DIR$/drawable/white429.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white430.png" afterPath="$PROJECT_DIR$/drawable/white430.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white431.png" afterPath="$PROJECT_DIR$/drawable/white431.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white432.png" afterPath="$PROJECT_DIR$/drawable/white432.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white433.png" afterPath="$PROJECT_DIR$/drawable/white433.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white434.png" afterPath="$PROJECT_DIR$/drawable/white434.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white435.png" afterPath="$PROJECT_DIR$/drawable/white435.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white436.png" afterPath="$PROJECT_DIR$/drawable/white436.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white437.png" afterPath="$PROJECT_DIR$/drawable/white437.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white438.png" afterPath="$PROJECT_DIR$/drawable/white438.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white439.png" afterPath="$PROJECT_DIR$/drawable/white439.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white440.png" afterPath="$PROJECT_DIR$/drawable/white440.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white450.png" afterPath="$PROJECT_DIR$/drawable/white450.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white460.png" afterPath="$PROJECT_DIR$/drawable/white460.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white470.png" afterPath="$PROJECT_DIR$/drawable/white470.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white480.png" afterPath="$PROJECT_DIR$/drawable/white480.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white490.png" afterPath="$PROJECT_DIR$/drawable/white490.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white500.png" afterPath="$PROJECT_DIR$/drawable/white500.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white510.png" afterPath="$PROJECT_DIR$/drawable/white510.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white520.png" afterPath="$PROJECT_DIR$/drawable/white520.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white530.png" afterPath="$PROJECT_DIR$/drawable/white530.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white540.png" afterPath="$PROJECT_DIR$/drawable/white540.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white550.png" afterPath="$PROJECT_DIR$/drawable/white550.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white560.png" afterPath="$PROJECT_DIR$/drawable/white560.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white570.png" afterPath="$PROJECT_DIR$/drawable/white570.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white580.png" afterPath="$PROJECT_DIR$/drawable/white580.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white590.png" afterPath="$PROJECT_DIR$/drawable/white590.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white600.png" afterPath="$PROJECT_DIR$/drawable/white600.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white610.png" afterPath="$PROJECT_DIR$/drawable/white610.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white620.png" afterPath="$PROJECT_DIR$/drawable/white620.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white630.png" afterPath="$PROJECT_DIR$/drawable/white630.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white640.png" afterPath="$PROJECT_DIR$/drawable/white640.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white650.png" afterPath="$PROJECT_DIR$/drawable/white650.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white660.png" afterPath="$PROJECT_DIR$/drawable/white660.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white670.png" afterPath="$PROJECT_DIR$/drawable/white670.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white680.png" afterPath="$PROJECT_DIR$/drawable/white680.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white690.png" afterPath="$PROJECT_DIR$/drawable/white690.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white700.png" afterPath="$PROJECT_DIR$/drawable/white700.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white710.png" afterPath="$PROJECT_DIR$/drawable/white710.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white720.png" afterPath="$PROJECT_DIR$/drawable/white720.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white730.png" afterPath="$PROJECT_DIR$/drawable/white730.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white740.png" afterPath="$PROJECT_DIR$/drawable/white740.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white750.png" afterPath="$PROJECT_DIR$/drawable/white750.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white760.png" afterPath="$PROJECT_DIR$/drawable/white760.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white770.png" afterPath="$PROJECT_DIR$/drawable/white770.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white780.png" afterPath="$PROJECT_DIR$/drawable/white780.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white790.png" afterPath="$PROJECT_DIR$/drawable/white790.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white800.png" afterPath="$PROJECT_DIR$/drawable/white800.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white810.png" afterPath="$PROJECT_DIR$/drawable/white810.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white820.png" afterPath="$PROJECT_DIR$/drawable/white820.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white830.png" afterPath="$PROJECT_DIR$/drawable/white830.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white840.png" afterPath="$PROJECT_DIR$/drawable/white840.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white850.png" afterPath="$PROJECT_DIR$/drawable/white850.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white860.png" afterPath="$PROJECT_DIR$/drawable/white860.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white870.png" afterPath="$PROJECT_DIR$/drawable/white870.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white880.png" afterPath="$PROJECT_DIR$/drawable/white880.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white890.png" afterPath="$PROJECT_DIR$/drawable/white890.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white900.png" afterPath="$PROJECT_DIR$/drawable/white900.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white910.png" afterPath="$PROJECT_DIR$/drawable/white910.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white920.png" afterPath="$PROJECT_DIR$/drawable/white920.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white930.png" afterPath="$PROJECT_DIR$/drawable/white930.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white940.png" afterPath="$PROJECT_DIR$/drawable/white940.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white950.png" afterPath="$PROJECT_DIR$/drawable/white950.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white960.png" afterPath="$PROJECT_DIR$/drawable/white960.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white970.png" afterPath="$PROJECT_DIR$/drawable/white970.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white980.png" afterPath="$PROJECT_DIR$/drawable/white980.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drawable/white990.png" afterPath="$PROJECT_DIR$/drawable/white990.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/Main.java" afterPath="$PROJECT_DIR$/src/data/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NotifaicationIconGenerator.iws" />
@@ -593,6 +157,7 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Application.main">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -771,6 +336,9 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4cd107ef-c519-4bd9-953c-26c609e334ae" name="Default" comment="" />
@@ -782,7 +350,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -792,7 +360,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928064" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928064" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18622175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -808,6 +376,14 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
