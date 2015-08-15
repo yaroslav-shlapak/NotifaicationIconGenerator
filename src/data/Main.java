@@ -71,7 +71,7 @@ public class Main {
       */
         BufferedImage img = new BufferedImage(1, 1, BufferedImage.TYPE_INT_ARGB);
         Graphics2D g2d = img.createGraphics();
-        Font font = new Font("Agency FB", Font.BOLD, 98); //Rockwell Condensed Agency FB Arial Narrow
+        Font font = new Font("Agency FB", Font.BOLD, 97); //Rockwell Condensed Agency FB Arial Narrow
         g2d.setFont(font);
         FontMetrics fm = g2d.getFontMetrics();
         int width;// = fm.stringWidth(text);
